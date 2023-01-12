@@ -5,7 +5,9 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 
+#Comment 1
 #Comment 2
+
 
 @Entity
 public class Customer {
